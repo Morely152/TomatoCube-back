@@ -11,3 +11,5 @@ public class TomatoCubeBackApplication {
     }
 
 }
+
+// 本条注释用于测试git提交，可删除。
